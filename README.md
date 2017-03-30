@@ -33,7 +33,7 @@ This software was developed and tested in Chrome. Please use Google Chrome if po
 
 The live version of the slideshow is run by using a bash script that runs on startup. The script is in this repo
 as slideshow. It launches Chrome in kiosk mode with web security disabled. Web security needs to be disabled for the
-error reporting to happend correctly.
+error reporting to happened correctly.
 
 There is a possibility that with the nature of Chrome's auto updating that the bash script may fail
 someday. In this event edit the slideshow script to reflect the more current way of launching Chrome
